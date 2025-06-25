@@ -1,0 +1,19 @@
+*{
+    background-color: gray;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 100%;
+}
+.title{
+
+}
+
+.news{
+    display: grid;
+}
+
+.news-item{
+    
+}
