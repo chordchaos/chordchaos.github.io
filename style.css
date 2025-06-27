@@ -57,3 +57,20 @@ body{
     top: -500px;
     left: 30px;
 }
+
+.socials{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+}
+
+.socials a img{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 30px;
+}
